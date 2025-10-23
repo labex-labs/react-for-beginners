@@ -15,21 +15,21 @@ Learn the fundamentals of React from setting up your first app to building inter
 
 ## Exercises
 
-|   Index | Name                                | Difficulty   | Practice                                                                                                      |
-|---------|-------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 React Setup and First App     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-setup-and-first-app-598881'>Start Lab</a>     |
-|       2 | 📖 🆓 React Components Introduction | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-components-introduction-601735'>Start Lab</a> |
-|       3 | 📖 🆓 React JSX Basics              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-jsx-basics-601739'>Start Lab</a>              |
-|       4 | 📖 🆓 React Props                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-props-601741'>Start Lab</a>                   |
-|       5 | 📖 🆓 React State with Hooks        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-state-with-hooks-601742'>Start Lab</a>        |
-|       6 | 📖  React Event Handling            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-event-handling-601737'>Start Lab</a>          |
-|       7 | 📖  React Conditional Rendering     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-conditional-rendering-601736'>Start Lab</a>   |
-|       8 | 📖  React Lists and Keys            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-lists-and-keys-601740'>Start Lab</a>          |
-|       9 | 📖  React Forms Basics              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-forms-basics-601738'>Start Lab</a>            |
+|   Index | Name                                | Difficulty   | Practice                                                                                                                            |
+|---------|-------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 React Setup and First App     | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-setup-and-first-app-598881?course=react-for-beginners'>Start Lab</a>     |
+|       2 | 🧩 🆓 React Components Introduction | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-components-introduction-601735?course=react-for-beginners'>Start Lab</a> |
+|       3 | 🧩 🆓 React JSX Basics              | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-jsx-basics-601739?course=react-for-beginners'>Start Lab</a>              |
+|       4 | 🧩 🆓 React Props                   | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-props-601741?course=react-for-beginners'>Start Lab</a>                   |
+|       5 | 🧩 🆓 React State with Hooks        | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-state-with-hooks-601742?course=react-for-beginners'>Start Lab</a>        |
+|       6 | 🧩  React Event Handling            | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-event-handling-601737?course=react-for-beginners'>Start Lab</a>          |
+|       7 | 🧩  React Conditional Rendering     | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-conditional-rendering-601736?course=react-for-beginners'>Start Lab</a>   |
+|       8 | 🧩  React Lists and Keys            | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-lists-and-keys-601740?course=react-for-beginners'>Start Lab</a>          |
+|       9 | 🧩  React Forms Basics              | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-forms-basics-601738?course=react-for-beginners'>Start Lab</a>            |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
