@@ -15,21 +15,21 @@
 
 ## 练习
 
-|   序号 | 名称                       | 难度   | 练习                                                                                                            |
-|--------|----------------------------|--------|-----------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 React 设置与首个应用 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-setup-and-first-app-598881'>开始实验</a>     |
-|      2 | 📖 🆓 React 组件入门       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-components-introduction-601735'>开始实验</a> |
-|      3 | 📖 🆓 React JSX 基础       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-jsx-basics-601739'>开始实验</a>              |
-|      4 | 📖 🆓 React Props          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-props-601741'>开始实验</a>                   |
-|      5 | 📖 🆓 React Hooks 状态管理 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-state-with-hooks-601742'>开始实验</a>        |
-|      6 | 📖  React 事件处理         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-event-handling-601737'>开始实验</a>          |
-|      7 | 📖  React 条件渲染         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-conditional-rendering-601736'>开始实验</a>   |
-|      8 | 📖  React 列表和 Keys      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-lists-and-keys-601740'>开始实验</a>          |
-|      9 | 📖  React 表单基础         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/react-react-forms-basics-601738'>开始实验</a>            |
+|   序号 | 名称                       | 难度   | 练习                                                                                                                                  |
+|--------|----------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 React 设置与首个应用 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-setup-and-first-app-598881?course=react-for-beginners'>开始实验</a>     |
+|      2 | 🧩 🆓 React 组件入门       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-components-introduction-601735?course=react-for-beginners'>开始实验</a> |
+|      3 | 🧩 🆓 React JSX 基础       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-jsx-basics-601739?course=react-for-beginners'>开始实验</a>              |
+|      4 | 🧩 🆓 React Props          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-props-601741?course=react-for-beginners'>开始实验</a>                   |
+|      5 | 🧩 🆓 React Hooks 状态管理 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-state-with-hooks-601742?course=react-for-beginners'>开始实验</a>        |
+|      6 | 🧩  React 事件处理         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-event-handling-601737?course=react-for-beginners'>开始实验</a>          |
+|      7 | 🧩  React 条件渲染         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-conditional-rendering-601736?course=react-for-beginners'>开始实验</a>   |
+|      8 | 🧩  React 列表和 Keys      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-lists-and-keys-601740?course=react-for-beginners'>开始实验</a>          |
+|      9 | 🧩  React 表单基础         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/react-react-forms-basics-601738?course=react-for-beginners'>开始实验</a>            |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
