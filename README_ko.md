@@ -15,21 +15,21 @@
 
 ## 연습
 
-|   인덱스 | 이름                                  | 난이도   | 연습                                                                                                             |
-|----------|---------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 React 설정 및 첫 번째 앱        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-setup-and-first-app-598881'>실습 시작</a>     |
-|        2 | 📖 🆓 React 컴포넌트 소개             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-components-introduction-601735'>실습 시작</a> |
-|        3 | 📖 🆓 React JSX 기본                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-jsx-basics-601739'>실습 시작</a>              |
-|        4 | 📖 🆓 React Props                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-props-601741'>실습 시작</a>                   |
-|        5 | 📖 🆓 React Hooks 를 사용한 상태 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-state-with-hooks-601742'>실습 시작</a>        |
-|        6 | 📖  React 이벤트 처리                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-event-handling-601737'>실습 시작</a>          |
-|        7 | 📖  React 조건부 렌더링               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-conditional-rendering-601736'>실습 시작</a>   |
-|        8 | 📖  React 리스트와 키                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-lists-and-keys-601740'>실습 시작</a>          |
-|        9 | 📖  React 폼 기본                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-forms-basics-601738'>실습 시작</a>            |
+|   인덱스 | 이름                                  | 난이도   | 연습                                                                                                                                   |
+|----------|---------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 React 설정 및 첫 번째 앱        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-setup-and-first-app-598881?course=react-for-beginners'>실습 시작</a>     |
+|        2 | 🧩 🆓 React 컴포넌트 소개             | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-components-introduction-601735?course=react-for-beginners'>실습 시작</a> |
+|        3 | 🧩 🆓 React JSX 기본                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-jsx-basics-601739?course=react-for-beginners'>실습 시작</a>              |
+|        4 | 🧩 🆓 React Props                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-props-601741?course=react-for-beginners'>실습 시작</a>                   |
+|        5 | 🧩 🆓 React Hooks 를 사용한 상태 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-state-with-hooks-601742?course=react-for-beginners'>실습 시작</a>        |
+|        6 | 🧩  React 이벤트 처리                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-event-handling-601737?course=react-for-beginners'>실습 시작</a>          |
+|        7 | 🧩  React 조건부 렌더링               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-conditional-rendering-601736?course=react-for-beginners'>실습 시작</a>   |
+|        8 | 🧩  React 리스트와 키                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-lists-and-keys-601740?course=react-for-beginners'>실습 시작</a>          |
+|        9 | 🧩  React 폼 기본                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/react-react-forms-basics-601738?course=react-for-beginners'>실습 시작</a>            |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
