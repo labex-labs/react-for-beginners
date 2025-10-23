@@ -15,21 +15,21 @@
 
 ## 演習
 
-|   インデックス | 名前                                   | 難易度   | 練習                                                                                                              |
-|----------------|----------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 React セットアップと最初のアプリ | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-setup-and-first-app-598881'>ラボを開始</a>     |
-|              2 | 📖 🆓 React コンポーネント入門         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-components-introduction-601735'>ラボを開始</a> |
-|              3 | 📖 🆓 React JSX の基本                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-jsx-basics-601739'>ラボを開始</a>              |
-|              4 | 📖 🆓 React Props                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-props-601741'>ラボを開始</a>                   |
-|              5 | 📖 🆓 React State with Hooks           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-state-with-hooks-601742'>ラボを開始</a>        |
-|              6 | 📖  React イベントハンドリング         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-event-handling-601737'>ラボを開始</a>          |
-|              7 | 📖  React 条件付きレンダリング         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-conditional-rendering-601736'>ラボを開始</a>   |
-|              8 | 📖  React のリストとキー               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-lists-and-keys-601740'>ラボを開始</a>          |
-|              9 | 📖  React フォームの基本               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-forms-basics-601738'>ラボを開始</a>            |
+|   インデックス | 名前                                   | 難易度   | 練習                                                                                                                                    |
+|----------------|----------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 React セットアップと最初のアプリ | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-setup-and-first-app-598881?course=react-for-beginners'>ラボを開始</a>     |
+|              2 | 🧩 🆓 React コンポーネント入門         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-components-introduction-601735?course=react-for-beginners'>ラボを開始</a> |
+|              3 | 🧩 🆓 React JSX の基本                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-jsx-basics-601739?course=react-for-beginners'>ラボを開始</a>              |
+|              4 | 🧩 🆓 React Props                      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-props-601741?course=react-for-beginners'>ラボを開始</a>                   |
+|              5 | 🧩 🆓 React State with Hooks           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-state-with-hooks-601742?course=react-for-beginners'>ラボを開始</a>        |
+|              6 | 🧩  React イベントハンドリング         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-event-handling-601737?course=react-for-beginners'>ラボを開始</a>          |
+|              7 | 🧩  React 条件付きレンダリング         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-conditional-rendering-601736?course=react-for-beginners'>ラボを開始</a>   |
+|              8 | 🧩  React のリストとキー               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-lists-and-keys-601740?course=react-for-beginners'>ラボを開始</a>          |
+|              9 | 🧩  React フォームの基本               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-forms-basics-601738?course=react-for-beginners'>ラボを開始</a>            |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
